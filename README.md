@@ -1,6 +1,8 @@
 # sensemakr_r
 provide suite of sensitivity analysis tools for Ordinary Least Square (OLS) Use sensemakr With R Software
 
+https://www.youtube.com/watch?v=UjDlLorulV4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
